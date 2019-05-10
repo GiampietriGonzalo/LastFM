@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82459b82-01bb-483f-976f-5ab8b2aeb3d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Artist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/APIClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIClientImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/APIClientImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExternalModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExternalModule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExternalService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExternalService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LastFMAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/LastFMAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LastFMConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/LastFMConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LastFMModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/LastFMModule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LastFMService.java" beforeDir="false" afterPath="$PROJECT_DIR$/LastFMService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RequestBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/RequestBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RequestBuilderImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/RequestBuilderImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResponseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/ResponseManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResponseManagerImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/ResponseManagerImp.java" afterDir="false" />
-    </list>
+    <list default="true" id="82459b82-01bb-483f-976f-5ab8b2aeb3d7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +12,7 @@
     <session id="1008171623">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -207,6 +191,11 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ines\Documents\GitHub\LastFM" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

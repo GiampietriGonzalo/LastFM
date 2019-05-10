@@ -1,4 +1,4 @@
-package ayds.spotisong.aurora.otherdetails.model.repository.external.lastFM;
+package LastFM;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

@@ -1,4 +1,4 @@
-package ayds.spotisong.aurora.otherdetails.model.repository.external.lastFM;
+package LastFM;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.scalars.ScalarsConverterFactory;

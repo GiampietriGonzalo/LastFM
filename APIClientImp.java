@@ -1,6 +1,5 @@
-package ayds.spotisong.aurora.otherdetails.model.repository.external.lastFM;
+package LastFM;
 
-import ayds.spotisong.aurora.otherdetails.model.repository.Artist;
 import retrofit2.Response;
 
 class APIClientImp implements APIClient{

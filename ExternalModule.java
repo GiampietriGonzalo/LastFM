@@ -1,7 +1,4 @@
-package ayds.spotisong.aurora.otherdetails.model.repository.external;
-
-
-import ayds.spotisong.aurora.otherdetails.model.repository.external.lastFM.LastFMModule;
+package LastFM;
 
 public class ExternalModule {
 

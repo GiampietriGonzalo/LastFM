@@ -1,4 +1,4 @@
-package ayds.spotisong.aurora.otherdetails.model.repository.external.lastFM;
+package LastFM;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -9,7 +9,6 @@ import org.xml.sax.InputSource;
 import java.io.StringReader;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
-import ayds.spotisong.aurora.otherdetails.model.repository.Artist;
 
 class ResponseManagerImp implements ResponseManager{
 

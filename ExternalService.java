@@ -1,5 +1,4 @@
-package ayds.spotisong.aurora.otherdetails.model.repository.external;
-import ayds.spotisong.aurora.otherdetails.model.repository.Artist;
+package LastFM;
 
 public interface ExternalService {
     Artist getArtist(String artistName) throws Exception;

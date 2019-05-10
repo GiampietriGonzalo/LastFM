@@ -1,4 +1,4 @@
-package LastFM;
+package service;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.scalars.ScalarsConverterFactory;

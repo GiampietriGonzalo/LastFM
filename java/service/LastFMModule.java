@@ -1,4 +1,4 @@
-package LastFM;
+package service;
 
 public class LastFMModule {
 
